@@ -2,6 +2,9 @@
     two pointer technique is used to find if
     there is a pair in array whose sum = given_sum
 */
+
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
